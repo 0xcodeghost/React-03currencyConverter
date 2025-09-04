@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { InputBox } from "./components";
-import bgImage from "./assets/bg-picture.jpg";
+import bgImage from "./assets/bgpicture.jpg";
 import useCurrentInfo from "./Hooks/useCurrencyInfo";
 import "./index.css";
 
